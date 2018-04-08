@@ -92,7 +92,7 @@ Additionally, the merged state is provided to the client via a property on `wind
 
 See [this pull request](https://github.com/BinaryMuse/imgsible/pull/1) for progress on an architecture overhaul that should help alleviate these issues.
 
-But what about...
+But what about..
 -----------------
 
 * **Why not use react-async and react-router-component?** One of my goals with this app was to determine how complicated things like routing and asynchronous data loading were, so I built them by hand. The aforementioned libraries, as well as many others, are great resources.
